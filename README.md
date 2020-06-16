@@ -1,2 +1,7 @@
-# react-template
-A template for React projects
+# React Template
+
+A simple template for React projects.
+
+Includes:
+* GitHub pages build script
+* ESlint config
