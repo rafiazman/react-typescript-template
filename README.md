@@ -4,5 +4,6 @@ A simple template for React projects.
 
 Includes:
 * GitHub pages build script
-* ESLint config
-* Husky for applying ESLint on commit
+* ESLint for styling source files
+* Prettier for styling JSON & stylesheet files
+* Husky for applying ESLint and Prettier on commit
