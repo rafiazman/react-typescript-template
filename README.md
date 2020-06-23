@@ -4,4 +4,5 @@ A simple template for React projects.
 
 Includes:
 * GitHub pages build script
-* ESlint config
+* ESLint config
+* Husky for applying ESLint on commit
