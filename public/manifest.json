@@ -1,6 +1,6 @@
 {
     "short_name": "React Template",
-    "name": "React Template",
+    "name": "React TypeScript Template",
     "icons": [
         {
             "src": "favicon.ico",
@@ -18,7 +18,7 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "./react-template",
+    "start_url": "./",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"
