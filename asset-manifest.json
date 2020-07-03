@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-template/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-template/static/js/main.107ed6ee.chunk.js",
-    "main.js.map": "/react-template/static/js/main.107ed6ee.chunk.js.map",
-    "runtime-main.js": "/react-template/static/js/runtime-main.c9c040d8.js",
-    "runtime-main.js.map": "/react-template/static/js/runtime-main.c9c040d8.js.map",
-    "static/js/2.7ab81765.chunk.js": "/react-template/static/js/2.7ab81765.chunk.js",
-    "static/js/2.7ab81765.chunk.js.map": "/react-template/static/js/2.7ab81765.chunk.js.map",
-    "index.html": "/react-template/index.html",
-    "precache-manifest.bdef2e1d21c0a3ef1ea36dc206c94f7c.js": "/react-template/precache-manifest.bdef2e1d21c0a3ef1ea36dc206c94f7c.js",
-    "service-worker.js": "/react-template/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-template/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7ab81765.chunk.js.LICENSE.txt": "/react-template/static/js/2.7ab81765.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-template/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-typescript-template/static/css/main.e993370c.chunk.css",
+    "main.js": "/react-typescript-template/static/js/main.e6da75a2.chunk.js",
+    "main.js.map": "/react-typescript-template/static/js/main.e6da75a2.chunk.js.map",
+    "runtime-main.js": "/react-typescript-template/static/js/runtime-main.99e65e21.js",
+    "runtime-main.js.map": "/react-typescript-template/static/js/runtime-main.99e65e21.js.map",
+    "static/js/2.7ab81765.chunk.js": "/react-typescript-template/static/js/2.7ab81765.chunk.js",
+    "static/js/2.7ab81765.chunk.js.map": "/react-typescript-template/static/js/2.7ab81765.chunk.js.map",
+    "index.html": "/react-typescript-template/index.html",
+    "precache-manifest.db955575eacda34cc8b187820ab2b05a.js": "/react-typescript-template/precache-manifest.db955575eacda34cc8b187820ab2b05a.js",
+    "service-worker.js": "/react-typescript-template/service-worker.js",
+    "static/css/main.e993370c.chunk.css.map": "/react-typescript-template/static/css/main.e993370c.chunk.css.map",
+    "static/js/2.7ab81765.chunk.js.LICENSE.txt": "/react-typescript-template/static/js/2.7ab81765.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-typescript-template/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9c040d8.js",
+    "static/js/runtime-main.99e65e21.js",
     "static/js/2.7ab81765.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.107ed6ee.chunk.js"
+    "static/css/main.e993370c.chunk.css",
+    "static/js/main.e6da75a2.chunk.js"
   ]
 }
